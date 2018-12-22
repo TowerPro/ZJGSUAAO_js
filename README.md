@@ -11,7 +11,7 @@ for(var i = 0; i < num; i++)//此处默认五星好评，若修改请修改i的�
 {
     if(i % 5 == 0){
         var Select = SelectionOfALl[i];
-        Select.checked=true;
+        Select.checked = true;
     }
 }
 
